@@ -13,9 +13,6 @@ With configurable spawn points and a randomized trigger mechanism, this script k
 
 **Supported Frameworks:**
 - RSGCore (Primary)
-- QBR
-- VORP
-- RedM RP
 
 This script automatically detects the active framework and adjusts the functions and notifications accordingly.
 
